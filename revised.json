@@ -1,0 +1,64 @@
+[
+  {
+    "URL": "https://help.moengage.com/hc/en-us/articles/19708702327572-Raise-a-Support-Ticket-Through-MoEngage-Dashboard",
+    "Title": "Raise a Support Ticket Through MoEngage Dashboard",
+    "content": "This section provides step-by-step instructions to raise a support ticket through the MoEngage dashboard.\n\nwarning\t\n\nWarning\n\nEnsure that you use the correct URL of the dashboard to raise a ticket.\n\nThe following are the available dashboards:\n\nData Center Name\tDashboard URL\nDC-01\thttps://dashboard-01.moengage.com\nDC-02\thttps://dashboard-02.moengage.com\nDC-03\thttps://dashboard-03.moengage.com\nDC-04\thttps://dashboard-04.moengage.com\nDC-05\thttps://dashboard-05.moengage.com\nDC-06\thttps://dashboard-06.moengage.com\nGo to your Moengage Dashboard. The login page is displayed.\n\n\nLog in to the dashboard using your credentials.\ninfo\t\n\nInformation\n\n \n\nIf you are unable to log in, you can create a support ticket from the login page. For more information, refer to Raise a Support Ticket from the MoEngage Login Page.\n\nIn the Work email field, enter your email.\nIn the Password field, enter your password.\nSelect the I’m not a robot checkbox.\nClick Login. After your login is successful, you are in the MoEngage dashboard. \n\nIn the top right corner of the screen, click Need help and then click Support.\n\n\n\nThe Submit a request page is displayed.\n\nEnter the following details:\nIn the CC field, enter an email ID that must be included in the ticket loop.\nIn the Additional Emails field, add the email ID of your CSM. (This is optional.)\nIn the Subject field, enter a brief description of the issue.\nIn the Description field, enter a detailed description of the issue.\nIn the Priority drop-down list, select the priority of the issue. For more information on priorities, refer to Support Issue Types and Priority.\nIn the Product Area drop-down list, select your product area.\nIn the Attachments section, click Add file to attach a file relevant to the issue. You can also drag and drop the file you want to attach to the ticket.\n\nClick Submit.\n\nAfter the issue is submitted successfully, the dashboard displays the ticket number and details such as the subject, description, and the attached files.\n\ninfo\t\n\nImportant Information\n\nWe are updating our support process at MoEngage and transitioning from a web form to the AIRA support bot. This advanced tool allows you to submit queries and create tickets, offering a smooth and expedited experience. Currently, AIRA is under progressive development and is accessed by a limited number of users. However, we are excited to announce that it will soon be fully available, serving as the replacement for the current web form.\n\nFor more information, read Introducing AIRA.",
+    "readability": {
+      "score": {
+        "flesch_kincaid": 8.714356406480121,
+        "gunning_fog": 9.795110456553756
+      },
+      "assessment": "Good for marketers.",
+      "suggestion": "Simplify long/technical sentences, especially those above grade 9."
+    },
+    "structure": {
+      "headings": 0,
+      "bullet_points": 0,
+      "long_paragraphs": 1,
+      "assessment": "Good structure.",
+      "suggestion": "Use more headings or break up long paragraphs into smaller chunks."
+    },
+    "completeness": {
+      "examples_found": 2,
+      "assessment": "Contains examples.",
+      "suggestion": "Add step-by-step examples or case uses where appropriate."
+    },
+    "style": {
+      "passive_phrases": 0,
+      "action_verbs": 16,
+      "assessment": "Mostly active voice. Good use of action-oriented language.",
+      "suggestion": "Use active voice. Start sentences with user actions like 'Click' or 'Enter'."
+    }
+  },
+  {
+    "URL": "https://help.moengage.com/hc/en-us/articles/360040071212-Terms-to-Know",
+    "Title": "Terms to Know",
+    "content": "These terms can help you as you begin your journey on MoEngage.\n\nTerm\tDefinition\nUser Profile\tA user profile a collection of all information associated with a user in MoEngage systems. A user profile may contain usage information (behavior), demographic information (age, physical attributes, language, family), psychological info (attitudes, beliefs, opinions), professional info (education, work experience), and so on. For more information, refer to User Profile.\nSegmentation\tThe Segmentation feature allows you to segment your users based on their attributes and actions in your app or website. After segmentation, you can create a campaign targeted to these segments. For more information, refer to Create Segments.\nAnalytics\tMoEngage Analytics helps you understand how users interact with your web and mobile apps. You can use it to track events and analyze trends to measure the performance of your app and campaigns.\nEvents\tEvents track the actions that users perform in your app or website. For example, launching an app, viewing a product, sharing a song, making a purchase, and so on.\nKey Metrics\tKey metrics is a dashboard page that provides all important and necessary information for day-to-day use for marketers. A quick glance at the Key metrics page shows the usage, engagement, and performance metrics of the product. For more information, refer to Key Metrics.\nSDK\n\tSoftware Development Kits (SDK) is integrated into iOS and Android applications and provides powerful tools for marketing, customer support, and analytics. MoEngage offers SDK integration for both iOS and Android. For more information, refer to the Developer Guide.\nAPI\tMoEngage APIs provide a web service where you can send actions taken by your users directly through HTTPS, rather than through the mobile SDKs or the web SDK. This allows you to pass user data to MoEngage that is not tracked within your app or website. For more information, refer to API.\nRoles\tMoEngage allows multiple team members to be added to the same account. There are 5 access roles (Admin, Manager, Marketer, Developer and Analyst) with different permissions. For more information, refer to Access Roles.\nTeam\n\tA team is a group of MoEngage users using MoEngage Dashboard who collaborate on the same campaigns. These users can be from the same geography or from the same vertical within the enterprise. For more information, refer to Teams in MoEngage.\nEngagement Channels\t\n\nMoEngage offers various channels to reach your users with our campaigns:\n\n\nSMS: Read more about SMS\nEmail: Read more about Email Campaigns \nPush: Read more about Push Notifications\nFlows: Read more about MoEngage Flows\nConnectors: Read more about connectors \nIn-Apps: Read more about In-Apps\nOn-Site: Read more about onsite messaging \nWhatsApp: Read more about Whatsapp messaging\nCards: Read more about Card Campaigns\nFacebook: Read more about Facebook Audience Campaigns\nGoogle Ads Audience: Read more about Google Ads Audience Campaigns\n\nEnvironment\t\n\nEvery MoEngage account for an app or web provides two different environments: TEST and LIVE. We support this with a single Workspace ID, (available under App Settings), which is your MoEngage identifier. \n\n\nCampaign Approval Flow\t\n\nCampaign approval allows Marketing teams to control or review the campaigns going live by implementing a creator-approver (maker-checker) approach. For more information, refer to Campaign Approval Workflow.\n\n\nRecommendations\t\n\nYou can include your product catalogs in your campaigns using recommendations. For more information, refer to Recommendations.\n\n\nTriggers\n\t\n\nTriggers are messages sent to the device when the user does a trigger event. Messages are served in near real time. For more information, refer to Triggers.\n\n\nSherpa\n\t\n\nThe powerful machine-learning engine of MoEngage adds intelligence to your orchestrations or powers your recommendations. It automatically maximizes campaign engagement by predicting and sending the right message at the right time.",
+    "readability": {
+      "score": {
+        "flesch_kincaid": 11.875824234830858,
+        "gunning_fog": 14.013173438339003
+      },
+      "assessment": "Too complex for a non-technical marketer.",
+      "suggestion": "Simplify long/technical sentences, especially those above grade 9."
+    },
+    "structure": {
+      "headings": 0,
+      "bullet_points": 0,
+      "long_paragraphs": 1,
+      "assessment": "Good structure.",
+      "suggestion": "Use more headings or break up long paragraphs into smaller chunks."
+    },
+    "completeness": {
+      "examples_found": 2,
+      "assessment": "Contains examples.",
+      "suggestion": "Add step-by-step examples or case uses where appropriate."
+    },
+    "style": {
+      "passive_phrases": 0,
+      "action_verbs": 1,
+      "assessment": "Mostly active voice. Lacks strong action guidance.",
+      "suggestion": "Use active voice. Start sentences with user actions like 'Click' or 'Enter'."
+    }
+  }
+]

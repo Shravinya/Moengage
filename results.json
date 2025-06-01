@@ -1,0 +1,62 @@
+[
+  {
+    "URL": "https://help.moengage.com/hc/en-us/articles/19708702327572-Raise-a-Support-Ticket-Through-MoEngage-Dashboard",
+    "Title": "Raise a Support Ticket Through MoEngage Dashboard",
+    "readability": {
+      "score": {
+        "flesch_kincaid": 8.714356406480121,
+        "gunning_fog": 9.795110456553756
+      },
+      "assessment": "Good for marketers.",
+      "suggestion": "Simplify long/technical sentences, especially those above grade 9."
+    },
+    "structure": {
+      "headings": 0,
+      "bullet_points": 0,
+      "long_paragraphs": 1,
+      "assessment": "Good structure.",
+      "suggestion": "Use more headings or break up long paragraphs into smaller chunks."
+    },
+    "completeness": {
+      "examples_found": 2,
+      "assessment": "Contains examples.",
+      "suggestion": "Add step-by-step examples or case uses where appropriate."
+    },
+    "style": {
+      "passive_phrases": 0,
+      "action_verbs": 16,
+      "assessment": "Mostly active voice. Good use of action-oriented language.",
+      "suggestion": "Use active voice. Start sentences with user actions like 'Click' or 'Enter'."
+    }
+  },
+  {
+    "URL": "https://help.moengage.com/hc/en-us/articles/360040071212-Terms-to-Know",
+    "Title": "Terms to Know",
+    "readability": {
+      "score": {
+        "flesch_kincaid": 11.875824234830858,
+        "gunning_fog": 14.013173438339003
+      },
+      "assessment": "Too complex for a non-technical marketer.",
+      "suggestion": "Simplify long/technical sentences, especially those above grade 9."
+    },
+    "structure": {
+      "headings": 0,
+      "bullet_points": 0,
+      "long_paragraphs": 1,
+      "assessment": "Good structure.",
+      "suggestion": "Use more headings or break up long paragraphs into smaller chunks."
+    },
+    "completeness": {
+      "examples_found": 2,
+      "assessment": "Contains examples.",
+      "suggestion": "Add step-by-step examples or case uses where appropriate."
+    },
+    "style": {
+      "passive_phrases": 0,
+      "action_verbs": 1,
+      "assessment": "Mostly active voice. Lacks strong action guidance.",
+      "suggestion": "Use active voice. Start sentences with user actions like 'Click' or 'Enter'."
+    }
+  }
+]
